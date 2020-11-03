@@ -13,7 +13,7 @@ I am a faculty member at [CISPA Helmholtz Center for Information Security](https
 Previously, I was a research group leader at CISPA. From January 2017 to December 2018, I was a postdoc with Michael Backes. Prior to that, I obtained my Ph.D. degree from University of Luxembourg on November 2016 under the supervision of Sjouke Mauw and Jun Pang. I obtained my bachelor (2009) and master (2012) degrees from Shandong University, China.
 
 Research Areas
-
+======
 * Security and Privacy of Machine Learning
 * Social Network Analysis
 * Algorithmic Fairness

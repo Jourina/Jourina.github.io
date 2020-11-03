@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
    # url: /talks/    
 
-  - title: "Teaching"
+  - title: "1Teaching"
     url: /teaching/    
     
   - student: "Student"
@@ -19,7 +19,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /_files/paper1.pdf/
+    url: /CV/
     
   - title: "Guide"
     url: /markdown/

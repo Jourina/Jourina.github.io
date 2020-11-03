@@ -86,7 +86,7 @@ author:
   location         : "中国 四川"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://baidu.com"
   email            : "2848207243@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Jourina"
+  github           : "Jourina"
   google_plus      :
   keybase          :
   instagram        :

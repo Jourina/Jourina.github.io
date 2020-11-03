@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Yingzhe(1王英哲)"
+title                    : "Wang Yingzhe(王英哲)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

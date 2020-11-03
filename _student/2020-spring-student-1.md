@@ -1,6 +1,6 @@
 ---
 collection: student
-permalink: /_student/2020-spring-student-1
+permalink: /student/2020-spring-student-1
 date: 2020-01-01
 location: "City, Country"
 ---

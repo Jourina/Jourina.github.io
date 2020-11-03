@@ -22,4 +22,4 @@ Research Areas
 What's News
 ======
 * [September 2020] One paper titled “Stealing Links from Graph Neural Networks” got accepted in [USENIX Security 2021](https://github.com/academicpages/academicpages.github.io)!
-* [September 2020] I will join the TPC of [AAAI 2021]([September 2020] I will join the TPC of AAAI 2021!)!
+* [September 2020] I will join the TPC of [AAAI 2021](https://github.com/academicpages/academicpages.github.io)!

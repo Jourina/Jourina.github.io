@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "联系信息"
   avatar           : "猫猫.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : #"        "
   location         : "中国 四川"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -247,7 +247,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _student
+  - scope:
+      path: ""
+      type: student
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass

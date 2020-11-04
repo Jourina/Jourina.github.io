@@ -16,9 +16,7 @@ Research Areas
 * Security and Privacy of Machine Learning
 * Social Network Analysis
 * Algorithmic Fairness
-<p style="color: blue">
- I’m always looking for motivated students to join my group. If you are interested, please fill in this form or write me an email (zhang@cispa.de).
-</p>
+**I’m always looking for motivated students to join my group. If you are interested, please fill in this form or write me an email (zhang@cispa.de).
 
 What's News
 ------

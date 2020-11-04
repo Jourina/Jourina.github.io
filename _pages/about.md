@@ -17,7 +17,7 @@ Research Areas
 * Social Network Analysis
 * Algorithmic Fairness
 
-**I’m always looking for motivated students to join my group. If you are interested, please fill in this form or write me an email (zhang@cispa.de).**
+**<p><font color="bule">I’m always looking for motivated students to join my group. If you are interested, please fill in this form or write me an email (zhang@cispa.de).</font></p>**
 
 What's News
 ------

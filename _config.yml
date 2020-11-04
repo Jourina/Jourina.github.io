@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  student:
+  test:
     output: true
     permalink: /:collection/:path/
 
@@ -246,10 +246,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
- # _student
+ # _test
   - scope:
       path: ""
-      type: student
+      type: test
     values:
       layout: single
       author_profile: true

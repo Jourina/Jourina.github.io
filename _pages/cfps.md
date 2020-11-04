@@ -1,6 +1,5 @@
 ---
 permalink: /cfps/
-title: "Example"
 author_profile: true
 redirect_from: 
   - /md/

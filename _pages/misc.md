@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /misc.html
 ---
-
 ## easy-bib
 
 I am a “true believer” of nice, clean and consistent references for latex generated papers. So I wrote [easy-bib](https://baidu.com) to semi-automatically generate .bib file. Please have a look.

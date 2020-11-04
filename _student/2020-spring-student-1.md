@@ -1,8 +1,8 @@
 ---
-collection: student
-permalink: /student/2020-spring-student-1
-date: 2020-01-01
-location: "City, Country"
+#collection: student
+#permalink: /student/2020-spring-student-1
+#date: 2020-01-01
+#location: "City, Country"
 ---
 
 I'm fortunate to work with the following brilliant students.
@@ -16,3 +16,4 @@ Co-supervised Ph.D. Students
 ------
 * Min Chen, September 2019-, with Michael Backes
 * Ahmed Salem, February 2017-, with Michael Backes
+* Jourina

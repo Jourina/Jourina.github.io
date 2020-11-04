@@ -1,9 +1,9 @@
 ---
-permalink: /server/
+permalink: /datasets/
 author_profile: true
 redirect_from: 
   - /md/
-  - /server.html
+  - /datasets.html
 ---
 This page lists all the datasets we have collected and used in our papers. To access them, please send an email to me (zhang@cispa.saarland).
 

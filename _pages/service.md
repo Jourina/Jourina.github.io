@@ -3,7 +3,7 @@ permalink: /service/
 author_profile: true
 redirect_from: 
   - /md/
-  - /server.html
+  - /service.html
 ---
 
 PC Member

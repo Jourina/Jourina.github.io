@@ -1,6 +1,6 @@
 ---
-permalink:/else/
-title: "this is a page for test"
+permalink: /else/
+title: "Else"
 author_profile: true
 redirect_from: 
   - /md/

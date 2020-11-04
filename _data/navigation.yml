@@ -23,6 +23,6 @@ main:
   - title: "Student"
     url: /student/
 
-  - title: "AboutMe"
-    url: /aboutme/
+  - title: "else"
+    url: /else/
     

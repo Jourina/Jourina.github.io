@@ -1,4 +1,5 @@
 ---
+title: "student hello"
 #collection: student
 #permalink: /student/2020-spring-student-1
 #date: 2020-01-01
